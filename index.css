@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.fade:not(.show) {
+  display: none;
+}
+.closeModal {
+  position: absolute;
+  right: 15px;
+  top: 12px;
+}
+.nav-link {
+  cursor: pointer;
+}
+ul#tabs.nav-tabs .nav-link.active {
+  color: #155724;
+  background-color: #d4edda;
+  border-color: #c3e6cb;
+}

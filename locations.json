@@ -1,0 +1,42 @@
+[
+  {
+      "trip": "322:CO:SNTL",
+      "text": "Bear Lake, Estes Park, CO",
+      "visible": "false"
+  },
+  {
+      "trip": "838:CO:SNTL",
+      "text": "University Camp near Rainbow Lakes/Lefthand Res",
+      "visible": "false"
+  },
+  {
+      "trip": "564:CO:SNTL",
+      "text": "Lake Eldora. Near Eldora Ski Area",
+      "visible": "false"
+  },
+  {
+      "trip": "335:CO:SNTL",
+      "text": "Berthoud Summit, CO",
+      "visible": "false"
+  },
+  {
+      "trip": "709:CO:SNTL",
+      "text": "Rabbit Ears Pass, CO",
+      "visible": "false"
+  },
+  {
+      "trip": "380:CO:SNTL",
+      "text": "Crested Butte, CO",
+      "visible": "false"
+  },
+  {
+    "trip": "713:CO:SNTL",
+    "text": "Red Mountain Pass, CO",
+    "visible": "false"
+  },
+  {
+      "trip": "586:CO:SNTL",
+      "text": "Lizard Head Pass, CO",
+      "visible": "false"
+    }
+]
